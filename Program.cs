@@ -1,4 +1,5 @@
-﻿using System;
+﻿// By Jianing Ding
+using System;
 
 namespace VisualStudio2022_CSharpGitDemo
 {
@@ -6,7 +7,7 @@ namespace VisualStudio2022_CSharpGitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Stay Hungry, Stay Foolish. -Steve Jobs. Submitted by Jianing Ding.");
         }
     }
 }
